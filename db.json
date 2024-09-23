@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "name": "Захар",
+      "surname": "Палазник",
+      "surname2": "Иванов",
+      "town": "Минск",
+      "country": "Беларусь",
+      "password": "$2a$10$MXAV2I85bPwae54RifXVqOxMkXnzKaMQhQtVQiAq51ELowqDzQzwm",
+      "phone": "+375221113355",
+      "email": "testuser@gmail.com",
+      "id": 3
+    }
+  ]
+}
